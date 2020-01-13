@@ -1,2 +1,2 @@
 # TreinamentoJavaVixTeam
-Programas desenvolvidos durante o treinamento Java que ocorreu como segunda faze de seleção da VixTeam
+Programas desenvolvidos durante o treinamento Java que ocorreu como 2ª fase de seleção da VixTeam
