@@ -46,4 +46,18 @@ public class HelloWorldController {
 		return "nomeCompleto";
  
 	} 
+	
+
+	@RequestMapping("/formulario")
+	public String gerarFormulario(ModelMap model) {
+		
+		
+		return "formulario";
+ 
+	}
+	
+	@RequestMapping("/javascript")
+	public String gerarJavascript(ModelMap model) {
+		return "javascript";
+	}
 }
